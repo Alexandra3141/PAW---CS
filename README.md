@@ -1,4 +1,6 @@
-mult succes :D
+#PAW - CS
+
+#Hello, World!
 
 scriptul "helloWorld" se scrie in notepad
 dupa ce l-ati scris in notepad, salvati fisierul pe desktop sau undeva unde sa stiti unde este (nu folositi caractere speciale) si inchide-ti
